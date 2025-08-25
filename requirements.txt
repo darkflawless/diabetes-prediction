@@ -1,6 +1,10 @@
-flask
+
+
 pandas
 scikit-learn
 joblib
 matplotlib
 tabulate
+Flask
+Flask-Cors
+gunicorn
